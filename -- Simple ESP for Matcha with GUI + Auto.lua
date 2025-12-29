@@ -1,5 +1,3 @@
--- Matcha Multi-Tool GUI Framework
-
 print("Loading arshibeld mm2 Tool GUI...")
 
 local players = game:GetService("Players")
